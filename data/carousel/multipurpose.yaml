@@ -1,4 +1,12 @@
 weight: 1
-title: "Multipurpose responsive theme"
-description: "<p>Business. Corporate. Agency.<br>Portfolio. Blog. E-commerce.</p>"
+title: "Sustainable"
+description: >
+  <ul class="list-style-none">
+    <li>Business</li>
+    <li>Corporate</li>
+    <li>Agency</li>
+    <li>Portfolio</li>
+    <li>Blog</li>
+    <li>E-commerce</li>
+  </ul>
 image: "img/carousel/template-homepage.png"
