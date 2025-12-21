@@ -463,7 +463,7 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>V&V PrintPack</strong>
-        <br>13/25 New Avenue
+        <br>N6
         <br>Newtown upon River
         <br>45Y 73J
         <br>England
@@ -478,9 +478,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +919971099880 or vivek@vnvpritnpack.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +91 99710 99880 or vivek@vnvprintpack.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+919971099880" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:vivek@vnvpritnpack.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:vivek@vnvprintpack.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
