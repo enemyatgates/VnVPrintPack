@@ -387,7 +387,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:Thorian.VikasChandra@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
