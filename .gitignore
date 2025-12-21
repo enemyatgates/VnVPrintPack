@@ -1,0 +1,13 @@
+public/
+# Hugo build output
+/public/
+/resources/
+# Hugo build lock files
+.hugo_build.lock
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.log
+# Node / tooling (if you add them later)
+node_modules/
+
