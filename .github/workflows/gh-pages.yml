@@ -38,3 +38,5 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
+          cname: vnvprintpack.com
+
