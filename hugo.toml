@@ -450,7 +450,7 @@ pluralizelisttitles = false
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "January 01, 2006 @ 22:07:00 IST"
 
     dropdown_mouse_over = false
 
