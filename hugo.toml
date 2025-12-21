@@ -1,5 +1,5 @@
 baseurl = "/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Universal"
+title = "V&V PrintPack"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 publishDir = "public"
