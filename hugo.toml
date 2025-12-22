@@ -365,7 +365,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+917709011888"
+    url = "tel:+919971099880"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 [[menu.topbar]]
@@ -377,17 +377,23 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 3
     name = "Facebook"
-    url = "https://facebook.com"
+    url = "https://facebook.com/Thorian.VikasChandra"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 4
+    name = "LinkedIn"
+    url = "www.linkedin.com/in/thorian"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 5
     name = "X"
     url = "https://x.com"
     pre = "<i class='fab fa-2x fa-x-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 5
+    weight = 6
     name = "Email"
     url = "mailto:vivek@vnvprintpack.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
