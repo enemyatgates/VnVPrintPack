@@ -36,122 +36,59 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
+    name       = "About Us"
+    identifier = "menu.aboutus"
     url        = "/img/template-easy-customize.png"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
+    name       = "Who We Are"
+    identifier = "section.who"
+    url        = "/"
     weight     = 1
-    parent     = "menu.features"
+    parent     = "menu.aboutus"
     post       = 1
 
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
+    name       = "Consortium"
+    identifier = "menu.consortium"
+    url        = "/consortium"
+    weight     = 1
+    parent     = "section.who"
     post       = 2
 
 [[menu.main]]
-    name       = "Accordions"
-    url        = ""
+    name       = "Why We Are"
+    identifier = "section.stand"
+    url        = "/"
     weight     = 1
-    parent     = "section.shortcodes"
+    parent     = "menu.aboutus"
+    post       = 2
+
 
 [[menu.main]]
-    name       = "Alerts"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
+    name       = "Mission"
+    identifier = "section.mission"
+    url        = "/mission"
     weight     = 1
-    parent     = "section.headervariations"
+    parent     = "section.stand"
+    post       = 1
 
 [[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
+    name       = "Vision"
+    identifier = "section.vision"
+    url        = "/vision"
     weight     = 2
-    parent     = "section.headervariations"
+    parent     = "section.stand"
+    post       = 1
 
 [[menu.main]]
-    name       = "Light Header"
-    url        = ""
+    name       = "Objective"
+    identifier = "section.objective"
+    url        = "/objective"
     weight     = 3
-    parent     = "section.headervariations"
+    parent     = "section.stand"
+    post       = 1
 
 [[menu.main]]
     name       = "Portfolio"
@@ -160,7 +97,7 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
+    name       = "Packaging"
     identifier = "section.portfolio"
     url        = ""
     weight     = 1
@@ -168,60 +105,54 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
+    name       = "Rigid Boxes"
     url        = ""
     weight     = 1
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
+    name       = "Paper / Composite Core"
     url        = ""
     weight     = 2
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "3 Columns"
+    name       = "Moulded Pulp"
     url        = ""
     weight     = 3
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
+    name       = "Honeycomb"
     url        = ""
     weight     = 4
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "4 Columns"
+    name       = "Anti-counterfeiting Solutions"
     url        = ""
     weight     = 5
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
+    name       = "Moulded Packaging"
     url        = ""
     weight     = 6
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "Portfolio - detail"
+    name       = "Other Packaging"
     url        = ""
     weight     = 7
     parent     = "section.portfolio"
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
+    name       = "Point of Sales"
     identifier = "section.about"
     url        = ""
     weight     = 2
     parent     = "menu.portfolio"
-    post       = 2
+    post       = 1
 
 [[menu.main]]
     name       = "About Us"
@@ -236,7 +167,7 @@ pluralizelisttitles = false
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Marketing"
+    name       = "Compliances"
     identifier = "section.marketing"
     url        = ""
     weight     = 3
@@ -244,7 +175,13 @@ pluralizelisttitles = false
     post       = 2
 
 [[menu.main]]
-    name       = "Packages"
+    name       = "Extended Producer Responsibility [EPR]"
+    url        = ""
+    weight     = 1
+    parent     = "section.marketing"
+
+[[menu.main]]
+    name       = "Carbon Footprint"
     url        = ""
     weight     = 1
     parent     = "section.marketing"
@@ -455,7 +392,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2025, V&V PrintPack; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "Monday, January 02, 2006 @ 15:04:05 MST"
@@ -469,12 +406,12 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>V&V PrintPack</strong>
-        <br>N6
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+        <br>Orchid Island
+        <br>Gurugram
+        <br>122018
+        <br>Haryana
         <br>
-        <strong>Great Britain</strong>
+        <strong>India</strong>
       </p>
       """
 
@@ -497,14 +434,14 @@ pluralizelisttitles = false
     search = true
 
 [params.carouselCustomers]
-    items = 6
-    auto_play = false
+    items = 2
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 4
-    auto_play = false
+    items = 2
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
@@ -519,7 +456,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 3 # Default: 3, Available values 2,3,4,6
+    cols = 6 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
@@ -533,7 +470,7 @@ pluralizelisttitles = false
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -549,13 +486,13 @@ pluralizelisttitles = false
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
     category = "categories"

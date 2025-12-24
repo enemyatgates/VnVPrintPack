@@ -1,13 +1,30 @@
-public/
 # Hugo build output
 /public/
-/resources/
-# Hugo build lock files
-.hugo_build.lock
-# OS / editor files
+/resources/_gen/
+/hugo_stats.json
+
+# Hugo cache
+/.hugo_build.lock
+
+# OS junk
 .DS_Store
 Thumbs.db
-*.log
-# Node / tooling (if you add them later)
-node_modules/
 
+# Node / tooling (if using PostCSS, Tailwind, etc.)
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Go module cache (if using Hugo modules)
+/go.sum
+/go.mod
+
+# Ignore all theme exampleSite folders
+themes/*/exampleSite/**
+
+# Ignore temporary editor files
+*.swp
+*.swo
+*~
+*.log
+*.pid
