@@ -391,7 +391,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Your change-makers and partners.</p>"
     copyright = "Copyright (c) 2025, V&V PrintPack; all rights reserved."
 
     # Format dates with Go's time formatting

@@ -21,6 +21,7 @@ We are a team having expertise in the fields of
 - Project Management
 - Sustainability
 - Environment Compliances
+- Consultancy
 
 And utilising individual’s knowledge, skills, interest and expertise in area to serve and meet the customers’ requirements with most appropriate sustainable cost effective solutions.
 
@@ -30,9 +31,11 @@ And utilising individual’s knowledge, skills, interest and expertise in area t
 
 ## Team
 
+- [Khowal, Sunil Kumar](/khowalsk)
 - [Chaudhary, Vivek](/chaudharyvk)
 - [Chaudhary, Vartika Rohini](/chaudharyvr)
 - [Thorian, Vikas Chandra](/thorianvc)
+- [Daksh, Monika](/dakshmk)
 
 * * *
 * * *
