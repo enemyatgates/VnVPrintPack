@@ -8,6 +8,4 @@ authors = ["John Doe"]
 type = "page"
 +++
 
-I'm a post with multiple categories in the frontmatter:
-
-    categories = ["programming","lorem","pseudo"]
+<h1 style="text-align:justify;font-variant:small-caps;">Serve the industry with quality, cost, service & delivery standards for their requirements pertaining to the posm, packaging &  printing, while meeting all the regulatory and environmental compliances.</h1>

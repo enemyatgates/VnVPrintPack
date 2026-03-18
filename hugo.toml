@@ -111,7 +111,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Rigid Boxes"
-    url        = ""
+    url        = "/portfolio/rigid-boxes"
     weight     = 1
     parent     = "section.portfolio"
 
