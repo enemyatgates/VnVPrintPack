@@ -31,11 +31,11 @@ And utilising individual’s knowledge, skills, interest and expertise in area t
 
 ## Team
 
-- [Khowal, Sunil Kumar](/khowalsk)
-- [Chaudhary, Vivek](/chaudharyvk)
-- [Chaudhary, Vartika Rohini](/chaudharyvr)
-- [Thorian, Vikas Chandra](/thorianvc)
-- [Daksh, Monika](/dakshmk)
+- **[Chaudhary, Vivek](/about-us/profiles/chaudharyvk)**
+- **[Chaudhary, Vartika Rohini](/about-us/profiles/chaudharyvr)**
+- **[Thorian, Vikas Chandra](/about-us/profiles/thorianvc)**
+- **[Daksh, Monika](/about-us/profiles/dakshmk)**
+- **[Khowal, Sunil Kumar](/about-us/profiles/khowalsk)**
 
 * * *
 * * *

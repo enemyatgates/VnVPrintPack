@@ -6,6 +6,11 @@ publishDir = "public"
 languageCode = "en-us"
 canonifyURLs = true
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
@@ -52,7 +57,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Consortium"
     identifier = "menu.consortium"
-    url        = "/consortium"
+    url        = "/about-us/consortium"
     weight     = 1
     parent     = "section.who"
     post       = 2
@@ -69,7 +74,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Mission"
     identifier = "section.mission"
-    url        = "/mission"
+    url        = "/about-us/mission"
     weight     = 1
     parent     = "section.stand"
     post       = 1
@@ -77,7 +82,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Vision"
     identifier = "section.vision"
-    url        = "/vision"
+    url        = "/about-us/vision"
     weight     = 2
     parent     = "section.stand"
     post       = 1
@@ -85,7 +90,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Objective"
     identifier = "section.objective"
-    url        = "/objective"
+    url        = "/about-us/objective"
     weight     = 3
     parent     = "section.stand"
     post       = 1
@@ -155,13 +160,13 @@ pluralizelisttitles = false
     post       = 1
 
 [[menu.main]]
-    name       = "About Us"
+    name       = "Promotional Materials"
     url        = ""
     weight     = 1
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Our Team"
+    name       = "Marketing Materials"
     url        = ""
     weight     = 2
     parent     = "section.about"
@@ -187,108 +192,10 @@ pluralizelisttitles = false
     parent     = "section.marketing"
 
 [[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
-[[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog/"
     weight     = 5
-
-[[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
@@ -341,7 +248,7 @@ pluralizelisttitles = false
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
-
+    
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
@@ -456,7 +363,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 6 # Default: 3, Available values 2,3,4,6
+    cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.

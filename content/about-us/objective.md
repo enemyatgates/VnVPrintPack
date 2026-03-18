@@ -5,7 +5,6 @@ tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/banners/banner-4.jpg"
 authors = ["John Doe"]
-id = "contact"
 type = "page"
 +++
 

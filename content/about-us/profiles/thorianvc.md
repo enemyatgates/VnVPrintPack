@@ -1,0 +1,38 @@
++++
+title = "Thorian, Vikas Chandra"
+description = "Specialist: Packaging and Printing"
+type = "page"
+keywords = ["Consortium","Who We Are","Why We Are","Expertise","Team"]
+banner = "img/banners/banner-4.jpg"
+
++++
+
+## Background
+
+## Education
+#### - B.Tech
+### - M.Tech
+
+* * *
+* * *
+* * *
+
+## Expertise
+
+We are a team having expertise in the fields of
+
+- Printing
+- Packaging
+- Designing
+- Marketing
+- Supply Chain
+- Project Management
+- Sustainability
+- Environment Compliances
+- Consultancy
+
+And utilising individual’s knowledge, skills, interest and expertise in area to serve and meet the customers’ requirements with most appropriate sustainable cost effective solutions.
+
+* * *
+* * *
+* * *
