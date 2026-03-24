@@ -1,14 +1,13 @@
 +++
-title = "Mission"
+title = "Folding Rigid Boxes"
 type = "page"
 +++
 
-<p style="text-align:justify;">
+<img style="align:center">![0202955ed1c212000dc4265574af17f5.png](/img/portfolio/rigid-boxes.jpg)</img>
 
+<h1 style="text-align:justify;"># Folding Rigid Boxes
 
-# Folding Rigid Boxes
-
-– **multi-ply compressed recycled paperboard**
+– multi-ply compressed recycled paperboard
 
 # Advantages
 
@@ -17,4 +16,4 @@ type = "page"
 - Design flexibility to be used as book-style, magnetic flap, drawer, collapsible boxes.
 - Kappa Board and MDF material.
 
-</p>
+</h1>

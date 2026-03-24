@@ -103,7 +103,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Packaging"
-    identifier = "section.portfolio"
+    identifier = "section.packaging"
     url        = ""
     weight     = 1
     parent     = "menu.portfolio"
@@ -113,47 +113,47 @@ pluralizelisttitles = false
     name       = "Rigid Boxes"
     url        = "/portfolio/rigid-boxes"
     weight     = 1
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Paper / Composite Core"
     url        = ""
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Moulded Pulp"
     url        = ""
     weight     = 3
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Honeycomb"
     url        = ""
     weight     = 4
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Anti-counterfeiting Solutions"
     url        = ""
     weight     = 5
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Moulded Packaging"
     url        = ""
     weight     = 6
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Other Packaging"
     url        = ""
     weight     = 7
-    parent     = "section.portfolio"
+    parent     = "section.packaging"
 
 [[menu.main]]
     name       = "Point of Sales"
-    identifier = "section.about"
+    identifier = "section.pos"
     url        = ""
     weight     = 2
     parent     = "menu.portfolio"
@@ -163,17 +163,17 @@ pluralizelisttitles = false
     name       = "Promotional Materials"
     url        = ""
     weight     = 1
-    parent     = "section.about"
+    parent     = "section.pos"
 
 [[menu.main]]
     name       = "Marketing Materials"
     url        = ""
     weight     = 2
-    parent     = "section.about"
+    parent     = "section.pos"
 
 [[menu.main]]
     name       = "Compliances"
-    identifier = "section.marketing"
+    identifier = "section.compliances"
     url        = ""
     weight     = 3
     parent     = "menu.portfolio"
@@ -183,13 +183,13 @@ pluralizelisttitles = false
     name       = "Extended Producer Responsibility [EPR]"
     url        = ""
     weight     = 1
-    parent     = "section.marketing"
+    parent     = "section.compliances"
 
 [[menu.main]]
     name       = "Carbon Footprint"
     url        = ""
     weight     = 1
-    parent     = "section.marketing"
+    parent     = "section.compliances"
 
 [[menu.main]]
     name       = "Blog"
@@ -298,7 +298,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Your change-makers and partners.</p>"
+    about_us = "<p>We are your change-makers and partners.</p>"
     copyright = "Copyright (c) 2025, V&V PrintPack; all rights reserved."
 
     # Format dates with Go's time formatting
