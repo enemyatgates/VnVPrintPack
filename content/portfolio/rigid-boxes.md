@@ -8,6 +8,7 @@ type = "page"
 <h1 style="text-align:justify;"># Folding Rigid Boxes
 
 – multi-ply compressed recycled paperboard
+- ELaborate definition
 
 # Advantages
 
