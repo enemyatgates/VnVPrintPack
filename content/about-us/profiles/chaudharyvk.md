@@ -11,7 +11,7 @@ banner = "img/banners/banner-4.jpg"
 
 ## Education
 #### - B.Tech
-### - M.Tech
+#### - M.Tech
 
 * * *
 * * *
